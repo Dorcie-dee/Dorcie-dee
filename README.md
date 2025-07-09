@@ -1,6 +1,7 @@
-# 👋🏾 Heyya, I’m Dorcas Nyamekye Quaye!
+# 👋🏾 Heyya, I’m Dorcas Nyamekye Quaye
 
-Welcome to my GitHub profile 👩🏾‍💻  
+Welcome to my GitHub profile 👩🏾‍💻
+
 I'm a **backend-focused, MERN stack web developer** passionate about building tools that solve real problems, especially in education, music, community empowerment, and tech for wellbeing.
 
 - 🔧 I work mainly with **Node.js**, **Express**, **MongoDB**, **JavaScript**, and **PHP**
@@ -17,8 +18,8 @@ I'm a **backend-focused, MERN stack web developer** passionate about building to
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
 <br> <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
@@ -33,9 +34,9 @@ I'm a **backend-focused, MERN stack web developer** passionate about building to
 
 ## 📌 Projects You Might Like
 
-- 🌱 [Flawless Wears](https://github.com/Dorcie-dee/flawless-wears)
-- 🔐 [MovieWatchlist API](https://github.com/Dorcie-dee/movieWatchlist-api)
-- 🎓 [Audiophile](https://github.com/Dorcie-dee/tmp-ecommerce-frontend)
+- 👗 [Flawless Wears](https://github.com/Dorcie-dee/flawless-wears)
+- 🎥 [MovieWatchlist API](https://github.com/Dorcie-dee/movieWatchlist-api)
+- 🎧 [Audiophile](https://github.com/Dorcie-dee/tmp-ecommerce-frontend)
 
 ---
 
@@ -43,14 +44,12 @@ I'm a **backend-focused, MERN stack web developer** passionate about building to
 
 - 🌍 [My Portfolio](https://dorcasnqportfolio.netlify.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dorcasnyamekyequaye)
-- 🐙 [GitHub Repos](https://github.com/dorcasnq)
+- 🐙 [GitHub Account](https://github.com/Dorcie-dee)
 - 📧 [Email](mailto:dorcasnquaye28@gmail.com)
 
 ---
 
 > “Lifelong learning is my mantra and coding my new love” 🖤
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dorcasnq.visitor-badge)
 
 ---
 
